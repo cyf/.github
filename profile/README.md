@@ -1,1 +1,7 @@
-<a target="_blank" href="https://chenyifaer.com">Official Website</a> · <a target="_blank" href="https://chenyifaer.com/fafa-runner">FaFa Runner</a> · <a target="_blank" href="https://chenyifaer.com/join">CYF Insider</a> · <a target="_blank" href="https://chenyifaer.com/faforever">FaForever</a> · <a target="_blank" href="https://chenyifaer.com/homing-pigeon">Homing Pigeon</a>
+## Hi there 👋
+
+1. [Official Website](https://chenyifaer.com)
+2. [FaFa Runner](https://chenyifaer.com/fafa-runner)
+3. [CYF Insider](https://chenyifaer.com/join)
+4. [FaForever](https://chenyifaer.com/faforever)
+5. [Homing Pigeon](https://chenyifaer.com/homing-pigeon)
