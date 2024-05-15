@@ -2,7 +2,7 @@
 
 ## Apps
 
-[FaForever](https://chenyifaer.com/faforever) · [Homing Pigeon](https://chenyifaer.com/homing-pigeon) · [FaFa Runner](https://chenyifaer.com/fafa-runner)
+[FaForever](https://chenyifaer.com/faforever) · [Homing Pigeon](https://chenyifaer.com/homing-pigeon) · [FaFa Runner](https://chenyifaer.com/fafarunner)
 
 ## Archived Repos
 
